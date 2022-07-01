@@ -10,7 +10,7 @@ int fac(int n)
     return n * fac(n - 1);
 }
 int main()
-{
+{ 
     int num = 0;
 
     cin >> num;
