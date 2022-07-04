@@ -14,7 +14,6 @@ int main()
         A = A + (tmp / 60);
         tmp %= 60;
     }
-
     
     if(A > 23)
     {
